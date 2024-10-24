@@ -24,3 +24,9 @@ My name is Immad Shahid. I am a 3rd year student at FAST NUCES, Islamabad. Curre
 
 ## 📊 GitHub Stats
 ![JohnDoe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=immadshahid&show_icons=true)
+
+
+## 📫 How to reach me
+- Email: immad@immadshahid.com
+- LinkedIn: [Immad S Qureshi](https://linkedin.com/in/immadshahidpk)
+
