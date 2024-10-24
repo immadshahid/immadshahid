@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Immad Shahid. I am a 3rd year student at FAST NUCES, Islamabad. Currently pursuing my degree in Bachelors of Data Science.
+My name is Immad Shahid. I am a 3rd year student at FAST NUCES, Islamabad. Currently pursuing my degree in Bachelors of Data Science. I am also a writer, and a blogger, interested in Content Writing. I have my own website immadshahid.com, where I write my articles. 
+## 🔧 Technologies & Tools
+
+- Languages: Python, JavaScript, C++, PHP, d3.js
+- Frameworks: FastAPI, Django, React
