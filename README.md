@@ -19,7 +19,6 @@ My name is Immad Shahid. I am a 3rd year student at FAST NUCES, Islamabad. Curre
 ## 🔧 Technologies & Tools
 
 - Languages: Python, JavaScript, C++, PHP, d3.js
-- Frameworks: FastAPI, Django, React
 
 
 ## 📊 GitHub Stats
