@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Immad Shahid!
 
-I'm a **3rd-year Data Science student** at FAST NUCES, Islamabad, and the **CEO & Co-Founder of Mansaibots**. I am passionate about building innovative AI solutions, exploring the power of data, and crafting engaging stories through content writing. When I'm not coding or analyzing data, you can find me blogging on [immadshahid.com](https://immadshahid.com), where I share my thoughts and ideas with the world.
+I'm a **final year AI and Data Science student** at FAST NUCES, Islamabad, and the **CEO & Co-Founder of MansaiSoft Pvt Ltd.**. I am passionate about building innovative AI solutions, exploring the power of data, and crafting engaging stories through content writing. When I'm not coding or analyzing data, you can find me blogging on [immadshahid.com](https://immadshahid.com), where I share my thoughts and ideas with the world.
 
 ---
 
