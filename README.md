@@ -44,7 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" title="Scikit-learn" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" title="Seaborn" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="40"/>
 </p>
 
@@ -74,7 +73,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/colab/colab-original.svg" title="Google Colab" width="40"/>
 </p>
 
 ---
