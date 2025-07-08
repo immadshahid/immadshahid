@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Immad Shahid 👋</h1>
+
 <p align="center">
-🚀 Data Scientist | 🧠 AI & ML Enthusiast | 🛠️ Full-Stack Developer | 📚 Content Creator  
+🚀 Data Scientist | 🧠 AI & ML Engineer | 🛠️ Full-Stack Developer | 📚 Content Creator  
 </p>
 
 <p align="center">
@@ -14,16 +15,12 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
+I’m a **Data Scientist** and **AI Engineer** passionate about using data and artificial intelligence to solve real-world problems.
 
-I’m a **Data Scientist** and **AI Engineer** passionate about using data and AI to solve real-world problems.  
-I build full-stack products, deploy custom AI assistants, and help businesses automate with smart solutions.
+I'm the **Founder & CEO of Mansaibots** – building custom chatbot systems using LLMs + RAG for e-commerce, education, and customer support.
 
-I’m the **Founder & CEO of Mansaibots** – building custom AI chatbot systems for education, e-commerce, and support.
-
-📚 I also create content and write articles to simplify complex tech topics for everyone.  
-🎥 Sharing tutorials, insights, and AI concepts through YouTube & Instagram Reels.
-  
+I also create content and write educational articles to simplify complex AI & tech topics.  
+🎥 I share insights and tutorials on **YouTube**, **Instagram Reels**, and my blog [immadshahid.com](https://immadshahid.com).
 
 ---
 
@@ -81,37 +78,35 @@ I’m the **Founder & CEO of Mansaibots** – building custom AI chatbot systems
 ## 🔥 Featured Projects
 
 - 🎧 **Spotify Recommendation System**  
-  Personalized audio-based recommender system built with PyTorch and EDA on real data.
+  Personalized audio-based recommender system using PyTorch, EDA, and user feature vectors.
 
 - 🤖 **Mansaibots** – [mansaibots.com](https://mansaibots.com)  
-  An AI chatbot solution for automating customer support using custom-trained LLMs + RAG.
+  AI chatbot platform for automating customer service using LLMs + RAG.
 
 - 📊 **AI Data Analyst Assistant** *(in progress)*  
-  Upload data and get visual insights, model predictions, and AI-powered chat with your dataset.
+  Upload datasets and receive charts, EDA summaries, ML insights, and an AI chat interface.
 
-- 🎮 **Rush Hour Game in C++**  
-  Console-based logic game demonstrating structured programming and object movement mechanics.
-
-
+- 🎮 **Rush Hour Game (C++)**  
+  A console-based logic game built using C++ with structured programming principles.
 
 ---
 
 ## ✍️ Latest Blog Posts
 
-📬 [How the Pakistani University System is Failing Us]([https://immadshahid.com/articles/pakistani-education-system](https://immadshahid.com/pakistani-universities-are-failing-their-students-heres-the-truth/))  
-
-> 🧠 *I love writing about AI, education, productivity, and the future of tech.*
+📌 [Pakistan’s University System Is Failing Students](https://immadshahid.com/pakistani-universities-are-failing-their-students-heres-the-truth/)  
+🧠 *I write about AI, education, productivity, and the future of learning.*
 
 ---
 
-## 💡 Let's Connect!
+## 💬 Let’s Connect!
 
-- 🌐 [immadshahid.com](https://immadshahid.com)
-- 📷 Instagram, YouTube & Reels: [@immadshahid](https://www.instagram.com/immadshahid/.ai)
-- 💬 Open to collaborations in AI, ML, and EdTech startups.
+- 🌐 [immadshahid.com](https://immadshahid.com)  
+- 📸 Instagram & YouTube: [@immadshahid](https://www.instagram.com/immadshahid)  
+- 💌 Email: `immadshahid24@gmail.com`  
+- 🤝 Open to collaborations in AI, ML, and EdTech startups
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile! ⭐  
+  ⭐ Thanks for visiting my profile!
 </p>
